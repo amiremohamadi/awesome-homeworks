@@ -1,5 +1,8 @@
-# HomeWorksCheat
-Some of my home works as a Software Engineering Student! Feel free to use and send PRs.
+# Awesome Homeworks
+Collection of awesome homeworks.
+
+## Table of Contents
+- [AI Course](#AI-Course)
 
 ## :robot: AI Course
 
