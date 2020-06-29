@@ -2,7 +2,7 @@
 Collection of awesome homeworks.
 
 ## Table of Contents
-- [AI Course](#AI-Course)
+- [AI Course](#robot-ai-course)
 
 ## :robot: AI Course
 
