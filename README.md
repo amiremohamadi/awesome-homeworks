@@ -1,5 +1,5 @@
 # Awesome Homeworks
-Collection of awesome homeworks.
+Collection of awesome homeworks. Feel free to add to the list :)
 
 ## Table of Contents
 - [AI Course](#robot-ai-course)
