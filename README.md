@@ -3,6 +3,7 @@ Collection of awesome homeworks. Feel free to add to the list :)
 
 ## Table of Contents
 - [AI Course](#robot-ai-course)
+- [Microprocessor Course (8086)](#microprocessor-course-8086)
 
 ## :robot: AI Course
 
